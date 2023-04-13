@@ -1,0 +1,10 @@
+C:\Users\LerOni\source\repos\test3\test3\bin\Debug\test3.exe.config
+C:\Users\LerOni\source\repos\test3\test3\bin\Debug\test3.exe
+C:\Users\LerOni\source\repos\test3\test3\bin\Debug\test3.pdb
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.csproj.AssemblyReference.cache
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.Form1.resources
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.Properties.Resources.resources
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.csproj.GenerateResource.cache
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.exe
+C:\Users\LerOni\source\repos\test3\test3\obj\Debug\test3.pdb
